@@ -1,3 +1,6 @@
+Automation tool that performs repetitive tasks to earn exp and in-game currency.
+Done in human-like way, is able to break CAPTCHA system.
+
 # CAPTCHA breaking
 The game uses a CAPTCHA system + windows generated input detection to filter out botting activities.
 Screenshot data are labeled, post-processed to generate a training data set. These are then trained to create a model
